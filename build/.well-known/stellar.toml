@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GACA4EMM4VWYDSMOL3PEHUOXVP7L5QXCS5VSSDRNTZI2PUWAYEDBVI73"
+"GCNNCNLBJGCECRITBMCKYWB3MSXT6FJVQA4DYNVUVGTMCS7HUEAJ3PFM"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="a meow massages the heart"
+ORG_DESCRIPTION="Thanks to a magical combination of lead and water within its feldspar structure, the Amazonite crystal and its dazzling emerald hue and mottled light-green specs echo the color of the Amazon River and its calming and soothing energies. Hold tight to the Amazonite crystal properties during times of stress and call on its ultra chill vibes for a much-needed float down your inner river of tranquility. The serene energy of this stone makes Amazonite a powerful heart chakra stone, helping to release toxic emotions and other unwanted energy from your heart space."
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QcKtPPM/cat.jpg"
+ORG_LOGO="https://i.ibb.co/0CTBhPh/amazonite.jpg"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="CatCoin"
-issuer="GACA4EMM4VWYDSMOL3PEHUOXVP7L5QXCS5VSSDRNTZI2PUWAYEDBVI73"
+code="AmazoniteGem"
+issuer="GCNNCNLBJGCECRITBMCKYWB3MSXT6FJVQA4DYNVUVGTMCS7HUEAJ3PFM"
 anchor_asset="false"
-name="Cat Coin"
-desc="a meow massages the heart"
-image="https://i.ibb.co/QcKtPPM/cat.jpg"
-fixed_number=1000000
-max_number=1000000
+name="Amazonite Gem"
+desc="Thanks to a magical combination of lead and water within its feldspar structure, the Amazonite crystal and its dazzling emerald hue and mottled light-green specs echo the color of the Amazon River and its calming and soothing energies. Hold tight to the Amazonite crystal properties during times of stress and call on its ultra chill vibes for a much-needed float down your inner river of tranquility. The serene energy of this stone makes Amazonite a powerful heart chakra stone, helping to release toxic emotions and other unwanted energy from your heart space."
+image="https://i.ibb.co/0CTBhPh/amazonite.jpg"
+fixed_number=79999999
+max_number=79999999
 is_unlimited=false
-#Cat Coin was issued using the open and inclusive Stellar blockchain network.
+#AmazoniteGem was issued using the open and inclusive Stellar blockchain network.
